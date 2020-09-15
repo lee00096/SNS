@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     # 추가한 앱
     'posts',
     'users',
+    'mypage',
 
 ]
 
